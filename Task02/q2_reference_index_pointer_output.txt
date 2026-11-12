@@ -1,0 +1,3 @@
+After reference moderation: 93
+After index moderation: 95
+After pointer moderation: 97

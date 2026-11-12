@@ -1,0 +1,7 @@
+Task02/dangling_reference_warning.cpp: In function 'int& badReference()':
+Task02/dangling_reference_warning.cpp:4:12: warning: reference to local variable 'local' returned [-Wreturn-local-addr]
+    4 |     return local; // warning: reference to local variable returned
+      |            ^~~~~
+Task02/dangling_reference_warning.cpp:3:9: note: declared here
+    3 |     int local = 10;
+      |         ^~~~~
