@@ -1,0 +1,6 @@
+charge(2) = 0.04 [int grams]
+charge(2.0f) = 40 [double kg via promotion]
+charge(500, true) = 60 [int grams]
+charge(1.5, false, true) = 50 [double kg]
+charge(p) = 120 [Parcel]
+charge(750) = 15 [int grams]
