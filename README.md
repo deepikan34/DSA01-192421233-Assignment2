@@ -1,11 +1,9 @@
-# DSA01-REGISTER-NUMBER-Assignment2
-
-> Replace `REGISTER-NUMBER` and the student-detail placeholders before submission. The supplied PDF is titled **Assignment 2 – CO2** and contains **Q1–Q7** (not 12 numbered tasks), so this repository follows the attached PDF.
+# DSA01-192421233-Assignment2
 
 ## Student details
-- Name: **[Enter your full name]**
-- Register number: **[Enter your register number]**
-- Course / section: **[Enter course and section]**
+- Name: N.Deepika
+- Register number: 192421233
+- Course / section: DSA0111 - C++
 
 ## Compiler and build
 - Compiler used: **g++ 14.2.0 (GNU) on Linux x86_64**
